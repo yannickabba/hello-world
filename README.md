@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+I am interested in machine learning for retail credit risk in the digital space
